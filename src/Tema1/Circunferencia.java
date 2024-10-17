@@ -14,7 +14,7 @@ public class Circunferencia {
         perimetro = 2 * Math.PI  * radio;
 
         System.out.println("Área " + area);
-        System.out.println("Perímetro = " + perimetro);
+        System.out.println("Perámetro = " + perimetro);
 
 
     }
