@@ -15,5 +15,8 @@ public class Circunferencia {
 
         System.out.println("Área " + area);
         System.out.println("Perímetro = " + perimetro);
+
+        System.out.println("prueba");
+
     }
 }
